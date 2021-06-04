@@ -18,4 +18,4 @@ This is a [Limnoria/Supybot](https://github.com/ProgVal/Limnoria) bot configurat
 2. Launch bot by executing: `supybot /path/to/OGABot.conf`
 3. Identify the account to the bot in IRC:
 
-> `/tell OGABot identify <username> <password>`
+> `/msg OGABot identify <username> <password>`
