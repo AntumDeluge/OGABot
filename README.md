@@ -4,7 +4,7 @@ This is a [Limnoria/Supybot](https://github.com/ProgVal/Limnoria) bot configurat
 
 ### Usage:
 
-#### Installation:
+#### Limnoria/Supybot Installation:
 
 - [Linux/Unix](https://docs.limnoria.net/use/install.html)
 - [Windows](https://docs.limnoria.net/use/install_windows.html)
